@@ -2,10 +2,10 @@
   "name": "caesar-cipher-cli-tool",
   "version": "1.0.0",
   "description": "task1 at nodejs course",
-  "main": "my-caesar-cli.js",
+  "main": "./task1/my-caesar-cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node my-caesar-cli.js"
+    "start": "node ./task1/my-caesar-cli.js"
   },
   "repository": {
     "type": "git",
