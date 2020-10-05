@@ -4,10 +4,10 @@ This is awesome and useful crypto tool for encoding and decoding your super secr
 
 ## Installation 
 
-> Clone the repository -> 
-> install dependencies ```npm install``` -> 
-> go to *task1* directory (``` cd ./task1 ```  in command line)  -> 
-> type ```node my-caesar-cli [options]``` in terminal
+- Clone the repository -> 
+- install dependencies ```npm install``` -> 
+- go to *task1* directory (``` cd ./task1 ```  in command line)  -> 
+- type ```node my-caesar-cli [options]``` in terminal
 
 
 ## Options 
