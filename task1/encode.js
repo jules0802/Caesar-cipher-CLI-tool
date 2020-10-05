@@ -1,7 +1,7 @@
-const ALPHABET = require('./consts');
+const { ALPHABET, UPPER_ALPHABET } = require('./consts');
 
 function encode(text, shift, isEncode) {
- const UPPER_ALPHABET = ALPHABET.map(letter => letter.toUpperCase());   
+ 
  return text.split('').map(char => {
     if (ALPHABET.includes(char)) {
         const index = ALPHABET.findIndex((letter) => letter === char );
